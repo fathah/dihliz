@@ -95,6 +95,12 @@ $resp = '<div class="fx-alert success">We have recieved your message. Will get y
               </div>
               <div class="col-md-6">
                 <div class="mu-contact-right">
+                <div>
+                  <h3>Contact Now</h3>
+                Phone: <b style="color:green;"> 0495 2963484</b> <br>
+                Email: <b style="color:green;"> info@dihlizworldschool.com</b>
+                 <br>
+                </div> <br>
                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15642.769170101852!2d75.89270278704541!3d11.429865499648871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba668a6ac97fbbf%3A0x8f0dcbc58941b5cb!2sMarkaz%20Garden%20School%20Of%20Management%20Kozhikode!5e0!3m2!1sen!2sin!4v1614874047091!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
               </div>

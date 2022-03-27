@@ -35,7 +35,10 @@
    <div class="container"  style="background:#fff; padding:20px;">
    <div class="mu-blog-description">
   
-   <div class="centerImg"><img src="assets/img/pages/hssscience.jpg" class="pageImg" alt=""></div>
+   <div class="pageImg">
+  <img src="assets/img/gallery/big/4.jpg"  alt="">
+
+  </div>
 
 <!-- HSS SCIENCE -->
 <p id="hssscience">

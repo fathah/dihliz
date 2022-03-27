@@ -20,7 +20,7 @@
      <div class="row">
        <div class="col-md-12">
          <div class="mu-page-breadcrumb-area">
-           <h2>About Dihliz</h2>
+           <h2>Sports</h2>
          </div>
        </div>
      </div>
@@ -33,7 +33,7 @@
   
 <p id="about">
   <div class="pageImg">
-  <img src="assets/img/gallery/big/16.jpg"  alt="">
+  <img src="assets/img/gallery/big/20.jpg"  alt="">
 
   </div>
 Dihilz, a  phrase meaning threshold in Persian, continues the journey that GSV started more than one decade before.   Dihliz World School, runs under Markaz Garden, Calicut, plans its residential school system with a new advanced approach and outstanding curriculum to expand its global connections. It explores excellence in all the academic and non-academic areas to mould the students as 'ideal' in the areas concerned.

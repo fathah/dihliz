@@ -34,8 +34,9 @@
    <div class="container"  style="background:#fff; padding:20px;">
    <div class="mu-blog-description">
      
-  <div class="centerImg"><img src="assets/img/pages/highschool.jpg" class="pageImg" alt=""></div>
-
+   <div class="pageImg">
+  <img src="assets/img/gallery/big/15.jpg"  alt="">
+  </div>
 <p id="highschool">
 <h2>HIGH SCHOOL</h2>
 <b>With Life Skills Training and Competitive Exam Coaching

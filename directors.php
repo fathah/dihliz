@@ -6,6 +6,38 @@
   
   ?>
   
+<style>
+  .parent {
+display: grid;
+grid-template-columns: auto auto auto;
+row-gap: 20px;
+}
+.parent div img{
+ border-radius: 15px;
+ filter: drop-shadow(2px 3px 10px rgba(0,0,0,0.3));
+width: 250px;
+height: 250px;
+transition:all 0.5s ease;
+margin-bottom: 10px;
+}
+
+.parent div img:hover{
+ filter: drop-shadow(4px 6px 10px rgba(0,0,0,0.5));
+}
+
+@media screen and (max-width:750px){
+  .parent {
+grid-template-columns: auto;
+}
+}
+@media screen and (max-width:1200px){
+  .parent {
+grid-template-columns: auto auto;
+}
+}
+
+</style>
+
   <!--START SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#">
       <i class="fa fa-angle-up"></i>      
@@ -32,10 +64,17 @@
    <div class="mu-blog-description">
   
 <p>
-<h4>DR. MAH AZHARI (DIRECTOR)</h4>
-<h4>DR. ABDUSSALAM </h4>
-<h4>DR. UMARUL FARUQ SAQAFI</h4>
-<h4>MR. NOUFAL HASSAN NURANI</h4>
+
+<div class="parent">
+
+<center><div><img src="assets/img/directors/mah.jpg" alt="">  <h4>DR. MAH AZHARI</h4></div></center>
+<center><div><img src="assets/img/directors/dr-abdussalam.jpg" alt="">  <h4>DR. ABDUSSALAM </h4></div></center>
+<center><div><img src="assets/img/directors/farooq-saqafi.jpg" alt="">  <h4>DR. UMARUL FARUQ SAQAFI</h4></div></center>
+<center><div><img src="assets/img/directors/anil-seth.jpg" alt="">  <h4>DR. ANIL SETH</h4></div></center>
+<center><div><img src="assets/img/directors/noufal.jpg" alt="">  <h4>MR. NOUFAL HASSAN NURANI</h4></div></center>
+
+
+</div>
 
 
 </p>

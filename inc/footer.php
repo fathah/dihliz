@@ -9,12 +9,12 @@
               <div class="mu-footer-widget">
                 <h4 style="color: bisque;">Quick Links</h4>
                 <ul>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="">Academics</a></li>
-                  <li><a href="">Admission</a></li>
+                  <li><a href="about.php">About Us</a></li>
+                  <li><a href="academics.php">Academics</a></li>
+                  <li><a href="apply.php">Admission</a></li>
                   <li><a href="">Campus Life</a></li>
-                  <li><a href="">Gallery</a></li>
-                  <li><a href="">Contact</a></li>
+                  <li><a href="gallery.php">Gallery</a></li>
+                  <li><a href="contact.php">Contact</a></li>
                 </ul>
               </div>
             </div>

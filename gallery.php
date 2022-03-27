@@ -46,6 +46,8 @@
                 <li class="filter active" data-filter="all">All</li>
                 <li class="filter" data-filter=".lab">Lab</li>
                 <li class="filter" data-filter=".library">Library</li>
+                <li class="filter" data-filter=".class">Class</li>
+
                 <li class="filter" data-filter=".extra">Extra Cur</li>
 
                 <li class="filter" data-filter=".masjid">Masjid</li>

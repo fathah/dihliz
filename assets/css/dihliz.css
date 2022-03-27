@@ -1,0 +1,27 @@
+
+
+.pageImg{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    max-height:60vh;
+    overflow: hidden;
+    border-radius:15px;
+    margin-bottom:2rem;
+}
+
+.pageImg img{
+    width: 50%;
+    border-radius:15px;
+}
+
+  @media screen and (max-width:750px){
+    .pageImg img{
+    width: 100%;
+  }
+}
+@media screen and (max-width:1200px){
+  .pageImg img{
+    width: 70%;
+  }
+}

@@ -34,8 +34,10 @@
  <section id="mu-course-content">
    <div class="container"  style="background:#fff; padding:20px;">
    <div class="mu-blog-description">
-   <div class="centerImg"><img src="assets/img/pages/islamicscience.jpg" class="pageImg" alt=""></div>
+   <div class="pageImg">
+  <img src="assets/img/gallery/big/27.jpg"  alt="">
 
+  </div>
 <p id="islamicscience">
 <h2>ISLAMIC SCIENCE</h2>
 <b>With Submissive Heart and Soul

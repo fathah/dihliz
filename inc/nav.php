@@ -51,10 +51,10 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Campus Life <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="course.html">Overview</a></li>
-                <li><a href="course.html">Residential Life</a></li>
-                <li><a href="course.html">Sports Village</a></li>
-                <li><a href="course.html">Honor Code</a></li>
+                <li><a href="residence.php">Overview</a></li>
+                <li><a href="residence.php">Residential Life</a></li>
+                <li><a href="sports.php">Sports Village</a></li>
+                <li><a href="honor.php">Honor Code</a></li>
 
           
               </ul>

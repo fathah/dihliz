@@ -36,7 +36,11 @@
    <div class="mu-blog-description">
  
 <!-- HSS COMMERCE -->
-<div class="centerImg"><img src="assets/img/pages/hsscommerce.jpg" class="pageImg" alt=""></div>
+<div class="pageImg">
+  <img src="assets/img/gallery/big/32.jpg"  alt="">
+
+  </div>
+
 
 <p id="hsscommerce">
 <h2>HSS COMMERCE</h2>

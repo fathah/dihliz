@@ -31,7 +31,10 @@
    <div class="container"  style="background:#fff; padding:20px;">
    <div class="mu-blog-description">
   
+   <div class="pageImg">
+  <img src="assets/img/gallery/big/28.jpg"  alt="">
 
+  </div>
 <p id="vision">
 <h3>Vision</h3>
 DIHLIZ Global School was founded with a vision that called for creating, molding and developing ethically sound professionals in the fields concerned. The well designed curriculum will enlighten the young scholars to be the ideal to influence the constantly changing world order.
